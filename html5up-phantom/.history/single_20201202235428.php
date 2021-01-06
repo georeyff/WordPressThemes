@@ -1,0 +1,1 @@
+[products limit="6" columns="2"]

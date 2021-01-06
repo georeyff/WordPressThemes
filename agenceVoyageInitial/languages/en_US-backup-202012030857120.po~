@@ -1,0 +1,333 @@
+# Copyright (C) 2020 GD
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Voyages WP 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress."
+"org/support/theme/agenceVoyageInitial\n"
+"POT-Creation-Date: 2020-12-03 08:41:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-12-03 08:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: functions.php:38
+msgid "Principal"
+msgstr ""
+
+#: functions.php:39
+msgid "Mobile"
+msgstr ""
+
+#: inc/customizer.php:6
+msgid "Section Hero"
+msgstr ""
+
+#: inc/customizer.php:7
+msgid "Ici les informations"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Agence de voyage"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Titre"
+msgstr ""
+
+#: inc/customizer.php:30 inc/customizer.php:50
+msgid "Concept"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Titre du bouton"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Lien A propos"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Lien du bouton"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Services"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Equipe"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer.php:64 inc/customizer.php:94
+msgid "Image de fond"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Section A Propos"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Ici les informations de la section à propos"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Nous connaître"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Ici, le titre de à propos"
+msgstr ""
+
+#: inc/customizer.php:101 inc/customizer.php:142 inc/customizer.php:165
+#: inc/customizer.php:188
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Votre texte"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Section Services"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Ici les informations de la section services"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Nos services"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Ici, le titre de services"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "fas fa-graduation-cap"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Code FontAwesome Item 1"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Votre texte Item 1"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "fas fa-chart-line"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Code FontAwesome Item 2"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Votre texte Item 2"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "fas fa-gem"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Code FontAwesome Item 3"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Votre texte Item 3"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "Cacher cette section"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Section Equipe"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Ici les informations de la section Equipe"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Notre Equipe"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Ici, le titre de Equipe"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Team 1 Photo"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "JOHN DOE"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Nom Team 1"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "FOUNDER & CEO"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Job Team 1"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Team 2 Photo"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "VICTORIA STEPHENS"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Nom Team 2"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "FOUNDER"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Job Team 2"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Team 3 Photo"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "SEAN WEAVER"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Nom Team 3"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "DIRECTOR OF PRODUCTION"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Job Team 3"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Section Réseau Sociaux"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Ici les informations de la section Réseaux Sociaux"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "http://facebook.fr"
+msgstr ""
+
+#: inc/customizer.php:345
+msgid "Lien du réseau Social 1"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "fab fa-facebook-square"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Code FontAwesome Social 1"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "http://twitter.fr"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Lien du réseau Social 2"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "fab fa-twitter-square"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "Code FontAwesome Social 2"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "http://instagram.fr"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Lien du réseau Social 3"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "fab fa-instagram"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Code FontAwesome Social 3"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Section Couleur"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Vous pouvez changer la couleur de votre thème"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Couleur de votre thème"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Voyages WP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Our default theme for 2020 is designed to take full advantage of the "
+"flexibility of the block editor. Organizations and businesses have the "
+"ability to create dynamic landing pages with endless layouts using the group "
+"and column blocks. The centered content column and fine-tuned typography "
+"also makes it perfect for traditional blogs. Complete editor styles give you "
+"a good idea of what your content will look like, even before you publish. "
+"You can give your site a personal touch by changing the background colors "
+"and the accent color in the Customizer. The colors of all elements on your "
+"site are automatically calculated based on the colors you pick, ensuring a "
+"high, accessible color contrast for your visitors."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GD"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://gd.org/"
+msgstr ""

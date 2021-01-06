@@ -1,0 +1,141 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+html{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+h1{
+  color: white;
+  font-size: 65px;
+}
+h2{
+  text-align: center;
+  padding: 35px;
+}
+h3{
+  color: black;
+}
+a{
+  color: white;
+  text-decoration: none;
+  padding : 20px;
+}
+/*HERO SECTION*/
+#hero{
+  background: url('images/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+nav{
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+#menu{
+ padding-top: 2%;
+}
+
+#bandeau{
+  position: absolute;
+  bottom: 20%;
+  left: 26%;
+}
+#contenu{
+  text-align: center;
+}
+#contenu a{
+  color : rgb(255, 255, 255);
+  border : 1px solid rgb(255, 255, 255);
+  border-radius: 15px;
+  padding: 20px;
+  transition: all 1s;
+}
+#contenu a:hover{
+  color : rgb(255, 255, 255);
+  border : 1px solid rgba(92, 92, 92, 0.8);
+  background-color: rgba(92, 92, 92, 0.8); 
+}
+.contenu-cta{
+  margin-top: 20px;
+}
+#apropos{
+  background-color: white;
+  display: flex;
+}
+
+#apropos_image{
+  padding: 20px;
+  flex: 1;
+}
+
+#apropos_texte{
+  padding: 20px;
+  flex: 2;
+  text-align: justify;
+}
+
+#apropos_image img{
+  flex:1;
+  max-width: 100%;/*L'image prend au maximum la largeur de son contenant, soit 100% de 1/3*/
+}
+#services-section{
+  background-color: #666;
+  color: white;
+  padding : 20px;
+  text-align: center;
+}
+#services{
+  display : flex;
+
+}
+.services_item p{
+  text-align: justify;
+  padding: 20px;
+}
+#team{
+  display : flex;
+  text-align: center;
+}
+.team_item{
+  flex: 1;
+}
+.team_item img{
+  width: 100%;
+}
+.team_item p{
+  text-align: justify;
+  padding: 20px;
+}
+footer{
+  display: flex;
+  justify-content: center;
+}
+
+footer a{
+  color: black;
+}
+
+footer a:hover{
+  color: #e74c3c;
+}
+
+.social{
+  padding: 20px;
+}
+
+
+@media screen and (max-width: 460px){
+  #apropos, #services-section, #team-section{
+   flex-direction: column;
+  }/*Ici, on referme la déclaration #apropos*/
+
+
+}/*Ici, on referme la media query*/
